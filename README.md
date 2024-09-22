@@ -1,4 +1,4 @@
-![Leonardo_Phoenix_Create_a_sleek_and_futuristic_digital_illustr_2](https://github.com/user-attachments/assets/c264804b-e35d-4cf1-8506-ca66f8f5d36f)
+![Image](https://github.com/user-attachments/assets/c264804b-e35d-4cf1-8506-ca66f8f5d36f)
 # 🧠 VisionLM - A Vision Language Model
 
 **VisionLM** is a PyTorch implementation of a vision-language model designed for image-captioning, visual question answering, and other tasks that integrate computer vision and natural language processing (NLP). VisionLM combines state-of-the-art CNN and Transformer architectures to achieve high performance across multiple datasets.
@@ -63,7 +63,7 @@ The main dependencies are:
 
 ## 🎯 Result
 ![Output](https://github.com/user-attachments/assets/8f86ad0b-41e8-4b2f-818a-f6dfa6e3ce11)
-- **Note:**End to End VisionLM Project with Deployment Coming Soon
+- Note:-End to End VisionLM Project with Deployment Coming Soon
 
 ## 👥 Contributing
 Contributions are welcome! Please follow these steps to contribute:
@@ -81,4 +81,4 @@ This project is licensed under the MIT License.
 1. PyTorch: For providing the deep learning framework.
 2. HuggingFace: For the transformers library.
 
-![Leonardo_Phoenix_Create_a_sleek_and_futuristic_digital_illustr_0](https://github.com/user-attachments/assets/ba569ee8-8673-4161-9be8-8c80ab725e91)
+![Image](https://github.com/user-attachments/assets/ba569ee8-8673-4161-9be8-8c80ab725e91)
