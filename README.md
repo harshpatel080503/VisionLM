@@ -28,6 +28,9 @@ This project is designed to be modular and flexible, allowing researchers and de
 - **Multiple Vision-Language Tasks**: Supports a range of tasks like image captioning, VQA, and retrieval.
 - **Flexible Training Configurations**: Fine-tune or train VisionLM from scratch with various hyperparameters.
 ##🏗️ Model Architecture
+[KV-Cache.pdf](https://github.com/user-attachments/files/17090267/KV-Cache.pdf)
+[From CLIP to SigLIP.pdf](https://github.com/user-attachments/files/17090268/From.CLIP.to.SigLIP.pdf)
+[Normalization.pdf](https://github.com/user-attachments/files/17090269/Normalization.pdf)
 
 ##🔧 Installation
 Follow these steps to set up VisionLM locally.
