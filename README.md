@@ -1,5 +1,6 @@
-![Leonardo_Phoenix_Create_a_sleek_and_futuristic_digital_illustr_0](https://github.com/user-attachments/assets/64f7517b-eaef-431b-b0bd-424428b715c0)
+![Leonardo_Phoenix_Create_a_sleek_and_futuristic_digital_illustr_2](https://github.com/user-attachments/assets/c264804b-e35d-4cf1-8506-ca66f8f5d36f)
 # 🧠 VisionLM - A Vision Language Model
+
 **VisionLM** is a PyTorch implementation of a vision-language model designed for image-captioning, visual question answering, and other tasks that integrate computer vision and natural language processing (NLP). VisionLM combines state-of-the-art CNN and Transformer architectures to achieve high performance across multiple datasets.
 
 ## 🖥️ Table of Contents
