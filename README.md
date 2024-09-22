@@ -61,7 +61,7 @@ The main dependencies are:
 
 ## 🎯 Result
 ![Output](https://github.com/user-attachments/assets/8f86ad0b-41e8-4b2f-818a-f6dfa6e3ce11)
-**Note:-**End to End VisionLM Project with Deployment Coming Soon
+- **Note:**End to End VisionLM Project with Deployment Coming Soon
 
 ## 👥 Contributing
 Contributions are welcome! Please follow these steps to contribute:
